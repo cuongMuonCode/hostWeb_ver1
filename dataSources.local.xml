@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-233.14808.21">
+    <data-source name="elearning-api-db@cluster0.cuosq5h.mongodb.net" uuid="576e6905-a620-41fc-b27b-2ce88a11b526">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" />
+      <user-name>cuongdepzai151024</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
